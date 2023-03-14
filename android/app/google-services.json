@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055518165928",
+    "project_id": "radiology-centers",
+    "storage_bucket": "radiology-centers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055518165928:android:3138b450bf75ba9b522b9d",
+        "android_client_info": {
+          "package_name": "com.example.radiology_centers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055518165928-s4a2s0m17ahjrronc1to8iferhnrup71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbp6NwtvumCYydx4RMK1JOLCDc_ydgAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055518165928-s4a2s0m17ahjrronc1to8iferhnrup71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
